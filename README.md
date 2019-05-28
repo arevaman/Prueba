@@ -1,4 +1,7 @@
-# DrogStock Code
+# HEAL IN ONE CLICK
+
+### descripcion
+es un sistema por el cual se pueden solicitar medicamentos con formula medica o sin formula medica la cual se entre presencial mente o en versiones posteriores a domicilio
 
 
 ### Prerequisitos
